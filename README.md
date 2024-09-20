@@ -1,1 +1,1 @@
-# Unit-Convertor
+Here’s a shorter version for the GitHub description: --- A simple Unit Converter built using HTML, CSS, and JavaScript. It converts temperature (Celsius to Fahrenheit), weight (Kilograms to Pounds), and distance (Kilometers to Miles). This was a fun project, so feel free to provide feedback or suggest improvements! 😊
